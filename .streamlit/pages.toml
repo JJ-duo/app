@@ -1,0 +1,23 @@
+[[pages]]
+path = "home.py"
+name = "Home"
+icon = "🏠"
+ 
+[[pages]]
+path = "pages/1_Upload_mAP_Test_Dataset.py"
+name = "Upload mAP Test Dataset"
+
+ 
+[[pages]]
+path = "pages/2_mAP_Test_With_Result_files"
+name = "mAP Test With Result files"
+
+
+[[pages]]
+path = "pages/3_mAP_Detail_Board"
+name = "mAP Detail Board"
+
+
+[[pages]]
+path = "pages/4_mAP_Compare.py"
+name = "mAP Compare"
